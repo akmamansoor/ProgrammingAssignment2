@@ -3,7 +3,7 @@
 ## it will compute the inverse and store it in cache.
 
 
-## To test the program, use the following example 
+## To test the program, try the following example 
 ## [Input Matrix must be square and invertible]
 ## ==========================================================
 ## > mat1 <- matrix(rnorm(4), 2)
